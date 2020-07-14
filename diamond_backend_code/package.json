@@ -1,0 +1,22 @@
+{
+  "name": "diamond-backend",
+  "version": "1.0.0",
+  "description": "Backend for NTCP Diamond project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.8.9",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.3",
+    "npm": "^6.13.6",
+    "path": "^0.12.7"
+  }
+}

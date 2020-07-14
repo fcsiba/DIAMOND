@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Diamond",
+    "slug": "Diamond",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "facebookScheme": "fb1547096148787941",
+    "facebookAppId": "1547096148787941",
+    "facebookDisplayName": "Diamond",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.diamond",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.diamond",
+      "versionCode": 1
+    }
+  }
+}
