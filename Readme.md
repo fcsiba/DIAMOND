@@ -1,6 +1,6 @@
 ## Project background
 
-'NTCP_Diamond' (although we have just named it "Diamond") - is an app we have tried building for project selection teams (to create and view projects based on four factors: Novelty, Technology, Complexity and Pace. These four categories have further types. Therefore, choosing particular types from these categories forms a four-sided shape we are referring to as "Diamond"). For example, the following are different `diamond`s for different projects:
+`NTCP_Diamond` (although we have just named it `Diamond`) - is an app we have tried building for project selection teams (to create and view projects based on four factors: Novelty, Technology, Complexity and Pace. These four categories have further types. Therefore, choosing particular types from these categories forms a four-sided shape we are referring to as "Diamond"). For example, the following are different `diamond`s for different projects:
 
 
 
