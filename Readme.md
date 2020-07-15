@@ -29,7 +29,9 @@ So there's no need to run the server/backend separately on your machine/device, 
 ## To run the project on your local machine/device
 
 This project was creted using `expo-cli`. In order to run this project on your machine/device, make sure you have NodeJS installed and `Expo` installed on your mobile device (since the app isn't yet deployed on Play Store or App Store, you will need Expo to run the app on either an Android or iOS device).
-Clone/download the repository on your PC. To install all the dependencies run: 
+Clone/download and extract the repository on your PC. Navigate to the directory containing the repository and open terminal fro there. 
+
+To install all the dependencies run: 
 
 ```npm install```
 
