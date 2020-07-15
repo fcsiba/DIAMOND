@@ -8,7 +8,7 @@
     "facebookAppId": "1547096148787941",
     "facebookDisplayName": "Diamond",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/splash_modified.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
