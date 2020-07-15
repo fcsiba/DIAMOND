@@ -7,6 +7,8 @@
 
 
 ![alt text](https://github.com/fcsiba/DIAMOND/blob/master/assets/sample1.png)
+![alt text](https://github.com/fcsiba/DIAMOND/blob/master/assets/sample2.png)
+![alt text](https://github.com/fcsiba/DIAMOND/blob/master/assets/sample3.png)
 
 Project Mangers (with team members) will be using app for project management. Data (respondent's & project's profile) will be inserted in app. A project selection model (NTCP) will ask questions related to project selection. Project Team will then receive an interesting profile of the project inserted. A number of similar cases (previous projects) will be shown as well. The app will show the team what to take care of (recommendations), once the project is selected.	
 
