@@ -44,6 +44,7 @@ This will open the Metro Bundler on the browser at `localhost:19002`. If you hav
 ## Authors
 
 Authors of this project (along with ERP IDs):
+
 Muhammad Hamza Siddiqui (13160), 
 Muhammad Haris (13192), 
 Osama Habib (13056)
