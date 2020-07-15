@@ -8,28 +8,28 @@ Project Mangers (with team members) will be using app for project management. Da
 
 This is a MERN (MongoDB, ExpressJS, React-Native, NodeJS) stack application, where the app was built using React-Native (as front-end) and ExpressJS/NodeJS (with MongoDB) as backend.
 
-Screens' code and all other front-end logic are contained in 'src' folder and 'App.js' file. Files such as 'app.json', 'package.json', 'package-lock.json', etc. defines the modules/dependencies required and unique description and data related to the project.
+Screens' code and all other front-end logic are contained in `src` folder and `App.js` file. Files such as `app.json`, `package.json`, `package-lock.json`, etc. defines the modules/dependencies required and unique description and data related to the project.
 
 ## About the backend
 
-Backend NodeJS server of this app is deployed on heroku by the URL: https://ntcpdiamond-backend.herokuapp.com
+Backend NodeJS server of this app is deployed on heroku by the URL: `https://ntcpdiamond-backend.herokuapp.com`
 
-The backend repository is contained in 'diamond_backend_code' folder. It is also uploaded on BitBucket at: https://immrharry@bitbucket.org/immrharry/ntcp-diamond-backend.git
+The backend repository is contained in `diamond_backend_code` folder. It is also uploaded on BitBucket at: `https://immrharry@bitbucket.org/immrharry/ntcp-diamond-backend.git`
 
 So there's no need to run the server/backend separately on your machine/device, you can access and use this project directly.
 
 ## To run the project on your local machine/device
 
-This project was creted using 'expo-cli'. In order to run this project on your machine/device, make sure you have NodeJS installed and 'Expo' installed on your mobile device (since the app isn't yet deployed on Play Store or App Store, you will need Expo to run the app on either an Android or iOS device).
+This project was creted using `expo-cli`. In order to run this project on your machine/device, make sure you have NodeJS installed and `Expo` installed on your mobile device (since the app isn't yet deployed on Play Store or App Store, you will need Expo to run the app on either an Android or iOS device).
 Clone/download the repository on your PC. To install all the dependencies run: 
 
-npm install
+```npm install```
 
 Then run: 
 
-expo start
+```expo start```
 
-This will open the Metro Bundler on the browser at localhost:19002. If you have Expo application installed on your mobile, open the Expo application and scan the QR code (LAN version preferably) from the Metro Bundler browser which will then open the project on your mobile device.
+This will open the Metro Bundler on the browser at `localhost:19002`. If you have Expo application installed on your mobile, open the Expo application and scan the QR code (LAN version preferably) from the Metro Bundler browser which will then open the project on your mobile device.
 
 ## Authors
 
