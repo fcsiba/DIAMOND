@@ -5,6 +5,8 @@ Project Mangers (with team members) will be using app for project management. Da
 
 This is a MERN (MongoDB, ExpressJS, React-Native, NodeJS) stack application, where the app was built using React-Native (as front-end) and ExpressJS/NodeJS (with MongoDB) as backend.
 
+Screens' code and all other front-end logic are contained in 'src' folder and 'App.js' file. Files such as 'app.json', 'package.json', 'package-lock.json', etc. defines the modules/dependencies required and unique description and data related to the project.
+
 
 Backend NodeJS server of this app is deployed on heroku by the URL: https://ntcpdiamond-backend.herokuapp.com
 
